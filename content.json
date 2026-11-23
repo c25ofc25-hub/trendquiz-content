@@ -680,10 +680,463 @@
       },
       "status": "rising",
       "addedAt": "2026-11-23"
+    },
+    {
+      "id": "w030",
+      "type": "meaning",
+      "category": "word",
+      "term": "라우럴",
+      "prompt": "이 말, 무슨 뜻일까요?",
+      "context": "공연장에서 \"다들 목소리가 작은데요? 라우럴~\"",
+      "options": [
+        "조용히 해 달라는 말",
+        "더 크게 외쳐 달라는 말",
+        "한 번 더 해 달라는 말",
+        "천천히 말해 달라는 말"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "영어 'Louder'처럼 '더 크게'라는 뜻으로, 분위기를 띄울 때 장난스럽게 쓰는 말",
+        "origin": "가수 지수가 11월 8일 음악 방송 무대에서 팬들의 호응을 끌어내려고 'Louder'라고 말한 데서 퍼진 밈이에요.",
+        "example": "\"응원 소리가 작은데? 라우럴!\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/wdr98q59olx"
+      ]
+    },
+    {
+      "id": "w031",
+      "type": "meaning",
+      "category": "word",
+      "term": "빼난지원금",
+      "prompt": "이 말, 무슨 뜻일까요?",
+      "options": [
+        "빼빼로를 받지 못한 사람에게 빼빼로를 나눠 주는 것",
+        "다이어트에 성공하면 받는 용돈",
+        "빼빼로 값을 돌려받는 제도",
+        "살을 빼는 데 쓰는 지원 비용"
+      ],
+      "answer": 0,
+      "explain": {
+        "meaning": "빼빼로데이에 빼빼로를 못 받은 사람에게 나눠 주는 가상의 지원금",
+        "origin": "11월 6일 공개된 유튜브 영상에서 소개된 뒤 빼빼로데이 즈음에 퍼졌어요.",
+        "example": "\"빼난지원금 신청합니다!\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/xyowy388z28"
+      ]
+    },
+    {
+      "id": "w032",
+      "type": "meaning",
+      "category": "word",
+      "term": "오디세이",
+      "prompt": "이 말, 무슨 뜻일까요?",
+      "options": [
+        "오래 걸어서 세계 여행을 다닌다",
+        "오전에 디톡스를 세 시간 한다",
+        "오늘 디저트 세 개 이상 먹음",
+        "오늘 디자인 세 개 이상 끝냄"
+      ],
+      "answer": 2,
+      "explain": {
+        "meaning": "하루에 디저트를 세 개 이상 먹었다",
+        "origin": "'오늘 디저트 세 개 이상'의 첫 글자를 모은 말이에요.",
+        "example": "\"케이크에 쿠키에 아이스크림까지, 오늘 오디세이 달성!\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/xyowy388z28",
+        "https://maily.so/trendaword/posts/92zenk5dzep"
+      ]
+    },
+    {
+      "id": "w033",
+      "type": "meaning",
+      "category": "word",
+      "term": "와졌어",
+      "prompt": "이 말, 어떤 상황에서 쓸까요?",
+      "context": "\"눈 떠 보니 회사 와졌어.\"",
+      "options": [
+        "반가운 손님이 찾아왔을 때",
+        "정신 차려 보니 어떤 상황에 놓여 있을 때",
+        "새로 산 물건이 도착했을 때",
+        "약속 시간에 맞춰 도착했을 때"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "내 의지와 상관없이, 정신 차려 보니 그 상황이 되어 있다",
+        "origin": "한 커뮤니티에 올라온 대화에서 \"회사 와졌어\"라는 말이 공감을 얻으며 퍼졌어요. 좋은 일에도 나쁜 일에도 써요.",
+        "example": "\"월요일 아침, 회사 와졌어.\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/2qzpe1deo4x"
+      ]
+    },
+    {
+      "id": "w034",
+      "type": "meaning",
+      "category": "word",
+      "term": "억랩",
+      "prompt": "이 말, 무슨 뜻일까요?",
+      "options": [
+        "억울한 마음을 담은 랩",
+        "억양 없이 읽는 랩",
+        "억지로 넣은 듯한 랩 파트",
+        "억 단위로 팔린 랩 음원"
+      ],
+      "answer": 2,
+      "explain": {
+        "meaning": "곡 분위기와 어울리지 않게 억지로 끼워 넣은 듯한 랩 파트",
+        "origin": "'억지 랩'을 줄인 말이에요. 원래는 비판하는 뜻이었는데, 요즘은 그 맛을 즐긴다는 긍정적인 뜻으로도 써요.",
+        "example": "\"이 노래는 억랩 나올 때가 제일 재밌어.\""
+      },
+      "status": "hot",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://news.tf.co.kr/read/ogmeta/2388776.htm",
+        "https://maily.so/trendaword/posts/l1zq19yer5x"
+      ]
+    },
+    {
+      "id": "w035",
+      "type": "meaning",
+      "category": "word",
+      "term": "셀프 덕질",
+      "prompt": "이 말, 무슨 뜻일까요?",
+      "options": [
+        "팬 활동을 몰래 숨기는 것",
+        "직접 굿즈를 만들어 파는 것",
+        "나를 최애처럼 아끼고 응원하는 것",
+        "자기 SNS 구독자를 늘리는 것"
+      ],
+      "answer": 2,
+      "explain": {
+        "meaning": "최애에게 쏟는 애정을 나 자신에게도 돌려주는 것",
+        "origin": "일본 작가가 SNS에 공유한 아이디어로, 이를 다룬 책이 국내에도 나오면서 알려졌어요.",
+        "example": "\"오늘은 나한테 맛있는 거 사 주는 셀프 덕질 하는 날!\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/x1zg6gn3rqg"
+      ]
+    },
+    {
+      "id": "w036",
+      "type": "meaning",
+      "category": "word",
+      "term": "라을라",
+      "prompt": "이 말, 어떤 상황에서 쓸까요?",
+      "options": [
+        "하품이 나올 만큼 졸릴 때",
+        "노래가 저절로 흥얼거려질 때",
+        "추워서 몸이 떨릴 때",
+        "길을 몰라 헤맬 때"
+      ],
+      "answer": 0,
+      "explain": {
+        "meaning": "졸릴 때 쓰는 말",
+        "origin": "사무실에서 하품을 하다 소리가 튀어나온 일에서 나왔다고 알려져 있어요.",
+        "example": "\"점심 먹고 나니 라을라…\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/1gz2w6q4z3q"
+      ]
+    },
+    {
+      "id": "w037",
+      "type": "meaning",
+      "category": "word",
+      "term": "닌자 하이야",
+      "prompt": "이 말, 어떤 때 쓸까요?",
+      "options": [
+        "숨바꼭질을 시작할 때",
+        "꼬리를 무는 생각을 멈추고 싶을 때",
+        "달리기 시합을 시작할 때",
+        "처음 만나 인사할 때"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "끝없이 이어지는 생각을 단번에 멈추게 하는 마법의 단어",
+        "origin": "'닌자 하이야'를 외치며 생각을 끊는 말투로 퍼진 표현이에요.",
+        "example": "\"걱정 그만! 닌자 하이야!\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/1gz2w6q4z3q"
+      ]
+    },
+    {
+      "id": "w038",
+      "type": "blank",
+      "category": "word",
+      "term": "빼난지원금",
+      "prompt": "빈칸에 어울리는 말은?",
+      "context": "A: \"빼빼로데이인데 하나도 못 받았어…\"\nB: \"내 거 줄게. ___ 신청해!\"",
+      "options": [
+        "재난지원금",
+        "빼난지원금",
+        "청년지원금",
+        "명절지원금"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "빼빼로데이에 빼빼로를 못 받은 사람에게 나눠 주는 가상의 지원금",
+        "origin": "11월 6일 공개된 유튜브 영상에서 소개된 뒤 빼빼로데이 즈음에 퍼졌어요.",
+        "example": "\"빼난지원금 신청합니다!\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/xyowy388z28"
+      ]
+    },
+    {
+      "id": "w039",
+      "type": "blank",
+      "category": "word",
+      "term": "억랩",
+      "prompt": "빈칸에 어울리는 말은?",
+      "context": "A: \"노래 중간에 갑자기 튀어나온 랩 들었어?\"\nB: \"그게 바로 ___의 맛이지.\"",
+      "options": [
+        "후렴",
+        "브릿지",
+        "억랩",
+        "애드리브"
+      ],
+      "answer": 2,
+      "explain": {
+        "meaning": "곡 분위기와 어울리지 않게 억지로 끼워 넣은 듯한 랩 파트",
+        "origin": "'억지 랩'을 줄인 말이에요. 요즘은 그 맛을 즐긴다는 뜻으로도 써요.",
+        "example": "\"이 노래는 억랩 나올 때가 제일 재밌어.\""
+      },
+      "status": "hot",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://news.tf.co.kr/read/ogmeta/2388776.htm",
+        "https://maily.so/trendaword/posts/l1zq19yer5x"
+      ]
+    },
+    {
+      "id": "w040",
+      "type": "alive",
+      "category": "word",
+      "term": "중꺾마",
+      "prompt": "이 말, 지금 써도 될까요?",
+      "context": "\"이번엔 떨어졌지만 중꺾마!\"",
+      "options": [
+        "지금 쓰는 말이에요",
+        "철 지난 말이에요"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "'중요한 건 꺾이지 않는 마음'을 줄인 말",
+        "origin": "2022년에 크게 유행했고, 지금은 유행이 지난 말로 꼽혀요.",
+        "example": "지금 쓰면 옛날 유행어를 따라 하는 느낌을 줄 수 있어요."
+      },
+      "status": "old",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://v.daum.net/v/20221206150114324"
+      ]
+    },
+    {
+      "id": "m004",
+      "type": "meaning",
+      "category": "meme",
+      "term": "곶감",
+      "prompt": "이 말, 무슨 뜻에 가까울까요?",
+      "context": "\"약속 시간 늦었네, 미안 이제 곶감!\"",
+      "options": [
+        "약속을 갑자기 취소한다는 말",
+        "곧 도착한다고 장난스럽게 알리는 말",
+        "말린 과일을 선물한다는 말",
+        "겨울 간식을 먹으러 가자는 말"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "'곧 갈게'를 '곶감'으로 바꿔 부르는 말장난",
+        "origin": "'곧 감'과 발음이 비슷한 '곶감'에 빗댄 말이에요. \"미안, 이제 곶감\"이라는 문구에 맞춰 춤을 추는 챌린지도 유행하고 있어요.",
+        "example": "\"미안, 이제 곶감~\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/x1zg6gn3rqg"
+      ]
+    },
+    {
+      "id": "m005",
+      "type": "alive",
+      "category": "meme",
+      "term": "곶감",
+      "prompt": "이 말, 지금 써도 될까요?",
+      "context": "\"약속 시간 늦었네, 미안 이제 곶감!\"",
+      "options": [
+        "지금 쓰는 말이에요",
+        "철 지난 말이에요"
+      ],
+      "answer": 0,
+      "explain": {
+        "meaning": "'곧 갈게'를 '곶감'으로 바꿔 부르는 말장난",
+        "origin": "11월 들어 챌린지와 함께 퍼지고 있는 표현이에요.",
+        "example": "\"미안, 이제 곶감~\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/x1zg6gn3rqg"
+      ]
+    },
+    {
+      "id": "m006",
+      "type": "meaning",
+      "category": "meme",
+      "term": "이거 제 이모지야",
+      "prompt": "이 말, 어떤 상황에서 쓸까요?",
+      "options": [
+        "이모티콘을 선물할 때",
+        "나나 최애를 닮은 이모지를 붙여 소개할 때",
+        "문자를 이모지로만 보낼 때",
+        "새 키보드를 샀을 때"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "자신이나 좋아하는 대상의 현재 상태를 이모지로 소개하는 유행",
+        "origin": "한 가수가 인터뷰에서 자신을 가장 잘 나타내는 이모지를 골라 소개한 영상이 화제가 되면서 퍼졌어요.",
+        "example": "\"안녕~ 저 오늘 졸려요. 이거 제 이모지야 🐿️\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/92zenwqnzep"
+      ]
+    },
+    {
+      "id": "m007",
+      "type": "whatis",
+      "category": "meme",
+      "term": "꿈꾸던 어른이 되었나요",
+      "prompt": "이게 뭐게?",
+      "context": "릴스에서 현재 내 모습을 소개할 때 붙이는 문구예요. \"회사원이 되었습니다…\"",
+      "options": [
+        "꿈꾸던 어른이 되었나요?",
+        "오히려 좋아",
+        "무야호",
+        "알빠노"
+      ],
+      "answer": 0,
+      "explain": {
+        "meaning": "어릴 적 꿈꾸던 어른의 모습과 지금의 나를 비교해 소개하는 유행 문구",
+        "origin": "6월에 나온 AI 활용 곡의 제목에서 퍼졌어요. 이 곡은 11월 13일 멜론 톱100 1위에 올랐어요.",
+        "example": "\"회사원이 되었습니다…\""
+      },
+      "status": "hot",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://weekly.khan.co.kr/article/202611132235001",
+        "https://maily.so/trendaword/posts/32z831ppon4"
+      ]
+    },
+    {
+      "id": "m008",
+      "type": "whatis",
+      "category": "meme",
+      "term": "랜덤 애인 소개 챌린지",
+      "prompt": "이게 뭐게?",
+      "context": "틱톡 필터로 성별, 나이, 키, 직업, 국적이 하나씩 무작위로 정해지고 그 사람을 소개하는 영상",
+      "options": [
+        "미라클 모닝 챌린지",
+        "랜덤 애인 소개 챌린지",
+        "아이스버킷 챌린지",
+        "스마일 챌린지"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "무작위로 정해진 성별·나이·직업 등을 바탕으로 애인을 소개하는 영상 챌린지",
+        "origin": "틱톡의 'in love with' 필터를 쓰는 챌린지로, 자녀의 애인 소개처럼 다른 주제로도 퍼졌어요.",
+        "example": "\"제 애인을 소개합니다.\""
+      },
+      "status": "rising",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/d5ryyyk8r1w"
+      ]
+    },
+    {
+      "id": "m009",
+      "type": "whatis",
+      "category": "meme",
+      "term": "윤정아 챌린지",
+      "prompt": "이게 뭐게?",
+      "context": "\"윤정아 윤정아~ 왜요 쌤 왜요 쌤~\" 대사에 맞춰 힘 빠진 춤을 추는 영상",
+      "options": [
+        "마라탕후루 챌린지",
+        "윤정아 챌린지",
+        "플랭크 챌린지",
+        "쇼츠 댄스 챌린지"
+      ],
+      "answer": 1,
+      "explain": {
+        "meaning": "\"윤정아 윤정아~ 왜요 쌤 왜요 쌤~\" 대사에 영혼 없는 목소리와 힘 빠진 춤을 맞추는 챌린지",
+        "origin": "올해 초 개그우먼 정이랑의 피아노 학원 콘텐츠에서 영감을 받은 영상에서 시작됐어요.",
+        "example": "\"윤정아 윤정아~ 왜요 쌤 왜요 쌤~\""
+      },
+      "status": "hot",
+      "addedAt": "2026-11-23",
+      "sources": [
+        "https://maily.so/trendaword/posts/x1zg6gn3rqg",
+        "https://maily.so/trendaword/posts/1gz2w6q4z3q"
+      ]
     }
   ],
   "issueWeek": {
-    "label": "",
-    "issues": []
+    "label": "11월 4주차",
+    "issues": [
+      {
+        "id": "i2026w48a",
+        "title": "AI로 만든 노래, 멜론 톱100 첫 1위",
+        "lines": [
+          "AI로 작곡과 보컬을 만든 '머무르'의 '꿈꾸던 어른이 되었나요?'가 11월 13일 멜론 톱100 1위에 올랐어요.",
+          "6월에 나온 곡이 약 다섯 달 만에 인기 아이돌 곡들을 제친 데다 AI 곡으로는 처음이라 화제가 됐어요.",
+          "AI 음악의 권리와 수익 분배 기준을 어떻게 세울지 논의가 이어지고 있어요."
+        ],
+        "sourceName": "주간경향",
+        "sourceUrl": "https://weekly.khan.co.kr/article/202611132235001"
+      },
+      {
+        "id": "i2026w48b",
+        "title": "'억랩', K팝의 맛일까 흠일까",
+        "lines": [
+          "곡 중간에 끼어든 듯한 랩 파트를 가리키는 '억랩'을 두고 의견이 갈리고 있어요.",
+          "원래는 비판하는 말이었는데, 억랩 모음 영상이 6일 만에 조회수 147만 회를 기록하며 즐기는 분위기도 커졌어요.",
+          "K팝의 특징으로 받아들이는 시각과 곡 흐름을 해친다는 시각이 함께 나오고 있어요."
+        ],
+        "sourceName": "더팩트",
+        "sourceUrl": "https://news.tf.co.kr/read/ogmeta/2388776.htm"
+      },
+      {
+        "id": "i2026w48c",
+        "title": "'극장판 치이카와', 개봉 47일째 일일 1위",
+        "lines": [
+          "'극장판 치이카와: 인어 섬의 비밀'이 11월 15일까지 누적 294만 9,096명을 기록해 올해 흥행 9위에 올랐어요.",
+          "개봉 47일째에도 일일 박스오피스 1위를 지킨 점이 눈길을 끌었어요.",
+          "8위 '토이 스토리 5'와는 2,192명 차이이고, 300만 명까지는 약 5만 명이 남았어요."
+        ],
+        "sourceName": "톱스타뉴스",
+        "sourceUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16277433"
+      }
+    ]
   }
 }
